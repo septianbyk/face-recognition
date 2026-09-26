@@ -101,7 +101,3 @@ Key tunables live at the top of `main.py`:
 
 - Blink-based liveness is a heuristic and can be bypassed by a replayed video of a genuine blink; it is not a substitute for certified anti-spoofing hardware (e.g. IR/depth cameras) in a production payment system.
 - `face_recognition`/dlib is not used in this version; if comparing embedding models for a research writeup, note that ArcFace (this pipeline) generally outperforms dlib's 128-d embedding on pose and low-light robustness.
-
-## License
-
-Add your license of choice here.
