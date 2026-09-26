@@ -60,9 +60,9 @@ For accuracy evaluation (FAR/FRR), separate a test set into `genuine/` (enrolled
 ```
 test_set/
 ├── genuine/
-│   └── Budi_Septian_Bayu/
+│   └── Septian_Bayu/
 └── impostor/
-    └── orang_x/
+    └── people_x/
 ```
 
 ## Usage
