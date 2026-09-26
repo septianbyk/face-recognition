@@ -1,6 +1,6 @@
 # Face Recognition System
 
-Real-time face recognition pipeline built for a cashier/POS application, using pre-trained deep learning face embeddings (ArcFace via InsightFace), FAISS for scalable similarity search, and blink-based liveness detection to reduce photo-spoofing risk.
+Real-time face recognition pipeline built for a application, using pre-trained deep learning face embeddings (ArcFace via InsightFace), FAISS for scalable similarity search, and blink-based liveness detection to reduce photo-spoofing risk.
 
 ## Features
 
