@@ -48,7 +48,7 @@ One folder per person, folder name = label:
 
 ```
 dataset/
-├── Budi_Santoso/
+├── Septian_Bayu/
 │   ├── img1.jpg
 │   └── img2.jpg
 └── Ani_Wijaya/
@@ -60,7 +60,7 @@ For accuracy evaluation (FAR/FRR), separate a test set into `genuine/` (enrolled
 ```
 test_set/
 ├── genuine/
-│   └── Budi_Santoso/
+│   └── Budi_Septian_Bayu/
 └── impostor/
     └── orang_x/
 ```
